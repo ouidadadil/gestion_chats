@@ -1,5 +1,9 @@
 #PARTIE REST
 
+# Technologie
+* MySQL
+* Spring Boot
+* Java 11
 
 ## Documentation API Swagger.
 
@@ -12,6 +16,9 @@ Aller sur `localhost:8082/swagger-ui.html#/`
 ````
 mvn test
 ````
+
+## Pré-requis
+Créer la base de données sous mysql : COMPTABILITE
 
 ## Demarrage de l'application local
 Ensuite il vous suffit de lancer au niveau du pom:
